@@ -1,0 +1,8 @@
+- hosts: localhost
+  gather_facts: no
+  tasks:
+  - name: A ver pinche Ansible
+    dejate-de-mamadas:
+      name: Quiero que jale
+      value: y hazle como puedas
+
