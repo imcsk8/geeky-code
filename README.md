@@ -2,7 +2,8 @@
 
 Uso:
 
-```
+```code
+$ cd ansible
 $ ansible-playbook -i localhost, playbook-playera.yaml
 ```
 
